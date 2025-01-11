@@ -1,0 +1,11 @@
+/* CSS to indent sub-menu items */
+.navbar-nav .nav-item .nav-link.indented {
+    margin-left: 3em; /* Adjust this value to control the indentation */
+  }
+  
+  /* Optional: Adjust the alignment and styling of sub-menu items */
+  .navbar-nav .nav-item .nav-link {
+    font-size: 0.9em; /* Adjust font size as needed */
+    color: #6c757d; /* Adjust color if needed */
+  }
+  
